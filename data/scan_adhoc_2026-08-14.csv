@@ -1,0 +1,5 @@
+﻿"finding_id","asset_name","ipv4","plugin_id","plugin_name","severity","vendor_severity","port","protocol","first_seen","last_seen","solution"
+"2839599e-de95-4e05-8bd3-d60042dc1857","sg-file-004.corp.example.com","10.10.11.70","900120","Microsoft Windows Security Update (Monthly Rollup)","Critical","Critical","0","","2025-12-05","2026-08-14","Apply the latest cumulative update."
+"3de4839f-7b57-4c63-a638-62256668cd2a","life-dc-005.corp.example.com","10.11.2.69","900151","Oracle Java SE Multiple Vulnerabilities","High","High","0","","2025-12-12","2026-08-14","Upgrade to the latest Java SE update."
+"d3d6551e-18ca-4df1-8fce-7195d917ae3e","life-dc-005.corp.example.com","10.11.2.69","900161","ICMP Timestamp Request Remote Date Disclosure","Low","Low","0","","2025-11-05","2026-08-14","Filter out ICMP timestamp requests."
+"c0e02645-35f6-4fca-aedd-9f39f949c6d0","life-dc-005.corp.example.com","10.11.2.69","900141","RHEL 9 : glibc security update","Medium","Medium","0","","2025-12-17","2026-08-14","Update the affected glibc packages."
